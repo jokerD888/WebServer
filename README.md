@@ -1,6 +1,6 @@
 # Linux C++ WebServer
 
-`Linux`平台下，使用C++11 实现的高性能Web服务器，使用了大量的C++11新特性，如：`thread`，`mutex`，`condition_variable`，`lock_guard`等多线程开发技术。经过`webbenchh`压力测试可以实现上万的QPS。
+`Linux`平台下，使用C++11 实现的高性能Web服务器，使用了大量的C++11新特性，如：`thread`，`mutex`，`condition_variable`，`lock_guard`等多线程开发技术。经过`webbench`压力测试可以实现上万的QPS。
 
 ![](README.assets/WS1.png)
 
