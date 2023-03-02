@@ -80,7 +80,7 @@ code
 
     ```bash
     # 使用CMake进行外部构建
-    # 1.进入build目录下
+    # 1.主目录下创建一个build目录，进入build目录下
     # 2.执行以下命令
     cmake ..
     make
